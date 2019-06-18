@@ -1,2 +1,4 @@
-# edge_ai
-Edge AI work in progress code
+# Edge AI
+Work in progress code for Edge AI performance and power evaluation.
+
+
